@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd84129-26cb-40fb-b8e0-7c4fc1a53eb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Guide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/WeatherActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/AQI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/Forecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/Now.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/Suggestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/gson/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cn/itcast/weatherapp/service/AutoUpdateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_share.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/aqi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/forecast.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/forecast_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/guide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/now.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/suggestion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/title.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_wxx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/
